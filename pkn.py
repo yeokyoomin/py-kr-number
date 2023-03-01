@@ -16,6 +16,8 @@
 #If you need to edit this file, please check this out and do it!
 
 #==========Edit method==========#
+#count == ??:
+#You can make it by raising that part by 4.
 def convert(num, end):
     n_int = int(num)
     n_str = str(n_int)
